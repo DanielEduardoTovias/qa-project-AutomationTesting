@@ -1,4 +1,4 @@
-## PROYECTO SPRINT 8. Pruebas automatizadas para la aplicación "Urban Routes" con Python y Selenium
+## PROYECTO. Pruebas automatizadas para la aplicación "Urban Routes" con Python y Selenium
      Descripción:
     - En este proyecto se realizaron pruebas automatizadas para la aplicación Urban Routes en las cuales se abarcan los escenarios de pedir un automóvil y agregar ciertas configuraciones al pedido del transporte realizando las pruebas con Python y Selenium y algunas librerías extras con el patrón de diseño POM (Page Object Model).
     
